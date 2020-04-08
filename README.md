@@ -4,7 +4,7 @@
 
 [000 - Unit Converter](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/000)
 
-[001 - Simple Calculator]((https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/001))
+[001 - Simple Calculator](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/001)
 
 002 - Count word occurrences in a text file
 
