@@ -1,12 +1,14 @@
 import java.util.Scanner;
 
+import static java.lang.System.out;
+
 public class UnitConverter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int option = 1;
         double secondParam;
         while (option!=0){
-            System.out.println("Please enter the number of operation you want to use:" + "\n" +
+            out.println("Please enter the number of operation you want to use:" + "\n" +
                     "1. Weight Converter" + "\n" +
                     "2. Length Converter" + "\n" +
                     "3. Speed Converter" + "\n" +
@@ -17,32 +19,61 @@ public class UnitConverter {
             option = scanner.nextInt();
             switch (option){
                 case 1:
-                    System.out.println("You have chosen weight converter");
-                    System.out.println("Please enter the number of operation you want to use:" + "\n" +
+                    out.println("You have chosen weight converter");
+                    out.println("Please enter the number of operation you want to use:" + "\n" +
                             "1. Kilograms to Pounds" + "\n" +
                             "2. Pounds to Kilograms");
                     option = scanner.nextInt();
-                    System.out.println("Please enter weight:");
+                    out.println("Please enter weight:");
                     secondParam = scanner.nextDouble();
-                    System.out.println(Weight.selectParam(option, secondParam));
+                    out.println(Weight.selectParam(option, secondParam));
                     break;
                 case 2:
-                    System.out.println("You have chosen length converter");
+                    out.println("You have chosen length converter");
+                    out.println("Please enter the number of operation you want to use:" + "\n" +
+                            "1. Meters to Feet" + "\n" +
+                            "2. Feet to Meters");
+                    option = scanner.nextInt();
+                    out.println("Please enter length:");
+                    secondParam = scanner.nextDouble();
+                    out.println(Length.selectParam(option, secondParam));
                     break;
                 case 3:
-                    System.out.println("You have chosen speed converter");
+                    out.println("You have chosen speed converter");
+                    out.println("You have chosen temperature converter");
+                    out.println("Please enter the number of operation you want to use:" + "\n" +
+                            "1. KMH to MPH" + "\n" +
+                            "2. MPH to KMH");
+                    option = scanner.nextInt();
+                    out.println("Please enter speed:");
+                    secondParam = scanner.nextDouble();
+                    out.println(Speed.selectParam(option, secondParam));
                     break;
                 case 4:
-                    System.out.println("You have chosen time converter");
+                    out.println("You have chosen time converter");
+                    out.println("Please enter the number of operation you want to use:" + "\n" +
+                            "1. Hours to Minutes" + "\n" +
+                            "2. Minutes to Hours");
+                    option = scanner.nextInt();
+                    out.println("Please enter time:");
+                    secondParam = scanner.nextDouble();
+                    out.println(Time.selectParam(option, secondParam));
                     break;
                 case 5:
-                    System.out.println("You have chosen temperature converter");
+                    out.println("You have chosen temperature converter");
+                    out.println("Please enter the number of operation you want to use:" + "\n" +
+                            "1. Celsius to Fahrenheit" + "\n" +
+                            "2. Fahrenheit to Celsius");
+                    option = scanner.nextInt();
+                    out.println("Please enter temperature:");
+                    secondParam = scanner.nextDouble();
+                    out.println(Temperature.selectParam(option, secondParam));
                     break;
                 case 0:
-                    System.out.println("Exiting program");
+                    out.println("Exiting program");
                     break;
                 default:
-                    System.out.println("There is no option " + option + "! Choose again.");
+                    out.println("There is no option " + option + "! Choose again.");
                     break;
             }
         }
