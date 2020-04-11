@@ -18,7 +18,7 @@
 
 007 - Anagram Checker
 
-008 - Factorial
+[008 - Factorial](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/008)
 
 009 - Eulerian trail/path
 
