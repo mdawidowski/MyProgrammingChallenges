@@ -13,14 +13,15 @@ public class WordOccurrences {
         String word = scanner.next();
         String text;
         int status = 0;
-        while ((text = bufferedReader.readLine())!=null && status!=1){
+        while ((text = bufferedReader.readLine())!=null){
             if(text.contains(word)){
-                System.out.println("Bingo! This text contains word \"" + word + "\"");
                 status += 1;
             }
         }
         if (status == 0){
             System.out.println("Word \"" + word + "\" wasn't found in text");
+        } else {
+            System.out.println("Bingo! Word " + word + "occurs " + status + " times!");
         }
 
     }
