@@ -14,7 +14,7 @@
 
 005 - String to ASCII Converter
 
-006 - Palindrome Checker
+[006 - Palindrome Checker](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/006)
 
 007 - Anagram Checker
 
