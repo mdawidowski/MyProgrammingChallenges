@@ -16,7 +16,7 @@
 
 [006 - Palindrome Checker](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/006)
 
-007 - Anagram Checker
+[007 - Anagram Checker](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/00)
 
 [008 - Factorial](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/008)
 
