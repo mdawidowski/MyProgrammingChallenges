@@ -12,7 +12,7 @@
 
 [004 - BMI Calculator](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/004)
 
-005 - String to ASCII Converter
+[005 - String to ASCII Converter](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/005)
 
 [006 - Palindrome Checker](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/006)
 
