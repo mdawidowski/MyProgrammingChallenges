@@ -8,7 +8,7 @@
 
 [002 - Count word occurrences in a text file](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/002)
 
-003 - Given an IPv4 address and a subnet mask, compute the network, broadcast and first/last host addresses
+[003 - Given an IPv4 address and a subnet mask, compute the network, broadcast and first/last host addresses](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/003)
 
 [004 - BMI Calculator](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/004)
 
