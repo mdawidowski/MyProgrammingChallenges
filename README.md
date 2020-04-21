@@ -24,4 +24,18 @@
 
 010 - Text/Morse code converter
 
+011 - Hangman Game
+
+012 - Prime Number
+
+013 - Bubble sort
+
+014 - Reverse a String
+
+015 - Pong Game
+
+016 - Snake Game
+
+017 - Flappy Bird Game
+
 ... More to come
