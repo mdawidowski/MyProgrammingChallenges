@@ -30,7 +30,7 @@
 
 013 - Bubble sort
 
-014 - Reverse a String
+[014 - Reverse a String](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/014)
 
 015 - Pong Game
 
