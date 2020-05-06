@@ -26,7 +26,7 @@
 
 011 - Hangman Game
 
-012 - Prime Number
+[012 - Prime Number](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/012)
 
 013 - Bubble sort
 
