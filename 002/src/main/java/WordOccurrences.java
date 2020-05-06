@@ -21,7 +21,7 @@ public class WordOccurrences {
         if (status == 0){
             System.out.println("Word \"" + word + "\" wasn't found in text");
         } else {
-            System.out.println("Bingo! Word " + word + "occurs " + status + " times!");
+            System.out.println("Bingo! Word " + word + " occurs " + status + " times!");
         }
 
     }

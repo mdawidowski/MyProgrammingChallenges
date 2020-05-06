@@ -16,11 +16,11 @@
 
 [006 - Palindrome Checker](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/006)
 
-[007 - Anagram Checker](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/00)
+[007 - Anagram Checker](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/007)
 
 [008 - Factorial](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/008)
 
-009 - Eulerian trail/path
+[009 - Eulerian trail/path](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/009)
 
 010 - Text/Morse code converter
 
