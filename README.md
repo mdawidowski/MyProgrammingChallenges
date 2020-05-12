@@ -22,7 +22,7 @@
 
 [009 - Eulerian trail/path](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/009)
 
-010 - Text/Morse code converter
+[010 - Text/Morse code converter](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/010)
 
 [011 - Hangman Game](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/011)
 
