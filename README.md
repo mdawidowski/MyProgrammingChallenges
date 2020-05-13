@@ -28,7 +28,7 @@
 
 [012 - Prime Number](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/012)
 
-013 - Bubble sort
+[013 - Bubble sort](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/013)
 
 [014 - Reverse a String](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/014)
 
