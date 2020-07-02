@@ -3,13 +3,10 @@ import java.awt.*;
 public class AIPaddle implements Paddle{
 
     double y, yVel;
-    boolean upAccel, downAccel;
-    int player, x;
-    final double GRAVITY = 0.94;
+    int x;
     Ball ball1;
 
     public AIPaddle(int player, Ball ball) {
-        upAccel = false; downAccel = false;
         ball1 = ball;
         y = 210;
         yVel = 0;
@@ -33,14 +30,6 @@ public class AIPaddle implements Paddle{
         } else if(y > 420){
             y = 420;
         }
-    }
-
-    public void setUpAccel(boolean input){
-        upAccel = input;
-    }
-
-    public void setDownAccel(boolean input){
-        downAccel = input;
     }
 
 

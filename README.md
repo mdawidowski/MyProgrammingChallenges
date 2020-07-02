@@ -34,7 +34,7 @@
 
 [015 - Pong Game](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/015)
 
-016 - Snake Game
+[016 - Snake Game](https://github.com/mdawidowski/MyProgrammingChallenges/tree/master/016)
 
 017 - Flappy Bird Game
 
